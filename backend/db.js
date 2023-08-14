@@ -20,12 +20,7 @@ const mongoDB = async()=> {
                     global.foodCategory = catData;
                 }
             }
-            //    if(err)console.log(err);
-        //    else 
-        //    {
-        //     global.food_items = data;
-            
-        //    }
+          
         )
         }
     )}})
